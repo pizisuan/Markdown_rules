@@ -17,7 +17,7 @@ def fname(arg):
   pass
 ```
 ```c
-int add(int a , int b)
+void add(int a , int b)
 {
   printf("hello,world\n" );
   printf("%d + %d = %d\n",a,b,a+b );
@@ -51,7 +51,7 @@ The student mainly talk **about** how to go to the *school*
 ## 符号标签
 `ctrl+c` `ctrl+v`
 
-## Latex公式
+## Latex公式(ATOM中另需插件)
 \[
 a + b = c
 \]
