@@ -51,7 +51,7 @@ The student mainly talk **about** how to go to the *school*
 ## 符号标签
 `ctrl+c` `ctrl+v`
 
-## Latex公式(ATOM中另需插件)
+## Latex公式(ATOM中另需插件，此处没有效果)
 \[
 a + b = c
 \]
